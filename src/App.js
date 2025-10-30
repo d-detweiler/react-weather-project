@@ -1,4 +1,5 @@
 import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
@@ -7,6 +8,7 @@ export default function App() {
         <header className="App-header">
           <h1>Weather App ☀️</h1>
         </header>
+        <Weather />
         <footer>
           <p>
             This project was coded by{" "}
