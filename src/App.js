@@ -8,7 +8,7 @@ export default function App() {
         <header className="App-header">
           <h1>Weather App ☀️</h1>
         </header>
-        <Weather />
+        <Weather defaultCity="Vancouver" />
         <footer>
           <p>
             This project was coded by{" "}
