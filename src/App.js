@@ -13,7 +13,7 @@ export default function App() {
           <p>
             This project was coded by{" "}
             <a
-              href="https://www.shecodes.io/graduates/137595-dominika-detweiler"
+              href="https://github.com/d-detweiler"
               target="_blank"
               rel="noreferrer"
             >
